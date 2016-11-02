@@ -132,7 +132,6 @@ t = 25
 answer = GreedyMotifSearch(Dna, k, t)
 for i in answer: print(i)
 
-#LATER FUCK IT NOW #Implanted Motif Problem: Find all (k, d)-motifs in a collection of strings.
 # Input: A collection of strings Dna, and integers k and d.
 # Output: All (k, d)-motifs in Dna.
 def MotifEnumeration(Dna, k, d):
